@@ -16,7 +16,7 @@ For example,
 
 ### Install
 
-`npm install git+ssh://github.com/aerofs/https-pushstate-server.git --save`
+`npm install -g git+https://github.com/caseyvu/https-pushstate-server.git`
 
 ### Usage
 
